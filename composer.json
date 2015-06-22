@@ -1,0 +1,9 @@
+{
+	"name"       : "afigestion/tbs-admin",
+	"description": "Afigestion Tbs-admin Bootstrap 3 theme",
+	"type"       : "croogo-theme",
+	"require"    : {
+		"composer/installers": "~1.0"
+	}
+}
+
